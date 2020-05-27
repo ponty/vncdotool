@@ -8,7 +8,7 @@ addons:
   apt:
     packages:
       - vnc4server
-      - xfonts-base
+      # - xfonts-base
 
 # command to install dependencies
 install:
